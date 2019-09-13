@@ -18,20 +18,20 @@
                  padding:1% 2%;
             }
             nav td:hover{
-                background-color: #5b635a;
+                background-color: green;
                 transition-duration: 0.5s;
                 
             }
             nav td a{
                 text-decoration: none;
-                color:#c5c2c2;
+                color:red;
             }
             nav{
                 position: fixed;
                 top:0;
                 width:100%;
                 margin-bottom: 2%;
-                 background-color: #abf0a3;
+                 background-color: yellow;
                  
             }
             .start{
