@@ -59,7 +59,7 @@ td:hover{
     background-color: orange;
     transition:0.5s;
 }
-.image1{
+.image_1{
     display:inline-block;
     width:150px;
     height: 150px;
@@ -70,7 +70,7 @@ td:hover{
     top:90px;
     
 }
-.image2{
+.image_2{
      display:inline-block;
     width:150px;
     height: 150px;
@@ -80,7 +80,7 @@ td:hover{
     left:90px;
     background-size: cover;
 }
-.image3{
+.image_3{
     display:inline-block;
     width:150px;
     height: 150px;
