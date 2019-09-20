@@ -4,14 +4,11 @@ To change this template file, choose Tools | Templates
 and open the template in the editor.
 */
 /* 
-    Created on : Aug 31, 2019, 7:57:24 AM
-    Author     : urk17cs254
+    Created on : Aug 21, 2019, 2:29:51 PM
+    Author     : URK17CS254
 */
-*{
-   
-}
 body{
-    background-image:url("image_1.jpg");
+    background-image:url("pic2.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     font-family: 'Arial';
@@ -59,32 +56,32 @@ td:hover{
     background-color: orange;
     transition:0.5s;
 }
-.image_1{
+.image1{
     display:inline-block;
     width:150px;
     height: 150px;
-    background-image:url('image_2.jpg');
+    background-image:url('pic1.jpg');
     position:absolute;
     left:100px;
     background-size: cover;
     top:90px;
     
 }
-.image_2{
+.image2{
      display:inline-block;
     width:150px;
     height: 150px;
-    background-image:url('image_2.jpg');
+    background-image:url('pic2.jpg');
     position:relative;
     top:70px;
     left:90px;
     background-size: cover;
 }
-.image_3{
+.image3{
     display:inline-block;
     width:150px;
     height: 150px;
-    background-image:url('image_3.jpg');
+    background-image:url('pic3.jpg');
     position:absolute;
     right: 70px;
     top:90px;
